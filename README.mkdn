@@ -1,0 +1,3 @@
+= mp3tools =
+
+mp3tools is a collection of scripts designed to make management of an MP3-based music library easier. The scripts will handle various duties, such as repairing corrupted MP3s, checking for consistency in tags, applying replay gain information, and renaming files into a directory structure based upon the ID3 tags.
